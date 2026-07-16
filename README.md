@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Yuga Deelip Hode 👋
 
-<!--
-**Yuga-25/Yuga-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Java Intern @ R3 Systems** | **AI & ML Student**
 
-Here are some ideas to get you started:
+📍 Nashik, India
+💻 Tech Stack: Java, HTML, CSS | Learning: Python, AI/ML, Git
+🌱 Currently building: Web projects and learning new frameworks
+🎯 Goal: Become a Pro Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📊 My GitHub Stats
+![Yuga's Stats](https://github-readme-stats.vercel.app/api?username=Yuga-25&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- Email: yugahode25@gmail.com
+- LinkedIn: www.linkedin.com/in/yugahode
+
+---
+⭐️ From [Yuga-25](https://github.com/Yuga-25)
